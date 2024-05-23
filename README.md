@@ -1,6 +1,10 @@
 # Double-machine-learning
 
 
+Case and Source of code: Causal Inference for The Brave and True https://matheusfacure.github.io/python-causality-handbook/landing-page.html
+
+
+
 Causal inference * double machine learning 
 
 
