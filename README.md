@@ -27,7 +27,7 @@ Sales_i = α + β₁price_i + β₂temp_i + β₃cost_i + β₄Weekday_i + e_i
 But the relationship between feature X and Y may be nonlinear.
 
 
-regression residuals  – DML base minds
+# regression residuals  – DML base minds
 
 # ATE- DML
 In the case of causal inference, we only care about the effect of Treatment T on outcome Y, so we can first use X to regression T to get a residual of T, then use X to regression Y to get a residual of Y, and finally use the residual of T to regression the residual of Y. The estimated parameter is the ATE we want.
